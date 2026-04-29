@@ -42,13 +42,12 @@ obj/
 
 # Editor / IDE
 .idea/
-.vscode/
 
 # Environment
-.env
-.env.*
 
 # Keep the generated demo in this repository
 !生成demo/
 !生成demo/**
 生成demo/**/.DS_Store
+config.bat
+node_modules
