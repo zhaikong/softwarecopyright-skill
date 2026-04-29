@@ -2,6 +2,8 @@
 
 这是一个用于生成中文软件著作权申请资料的 Codex Skill 开源仓库。
 
+项目地址：https://github.com/Fokkyp/SoftwareCopyright-Skill
+
 真正的 Skill 位于：
 
 ```text
